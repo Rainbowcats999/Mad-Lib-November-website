@@ -5,7 +5,7 @@ let swallowedAirspeed = prompt ('What is the speed of an uneven swallowed?')
 let userAge = prompt ('What is your age?')
 
 let myStory =
-`<p> Hello ${userName}! Answer me these questions 3 and the other side you'll see.</p>
+`<p> Hello ${userName}! Answer me these questions <span class="loud">three</span> and the other side you'll see.</p>
 
 <p> I see you have already answered, so your quest is to ${userQuest} </p>`
 

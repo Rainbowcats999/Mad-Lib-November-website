@@ -1,1 +1,5 @@
 let userName = prompt('WHAT IS YOUR NAME?')
+let userQuest = prompt ('What is your quest?')
+let userFavoriteColor = prompt('What is your favorite color?')
+let userAge = prompt ('What is your age?')
+console.log (userName)

@@ -11,4 +11,4 @@ let myStory =
 
 console.log (myStory)
 
-document.getElementById()
+document.getElementById('story').innerHTML = myStory

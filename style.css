@@ -2,19 +2,11 @@
     color:brown; 
 }
 
-body {
-    background-image: url(/imgs/karatekid.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    
-}
-
 #myVideo {
     position: fixed;
     right: 0;
-     bottom: 0;
+    bottom: 0;
     min-width: 100%; 
     min-height: 100%;
+    z-index: -1;
 }

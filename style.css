@@ -21,8 +21,8 @@
   }
 
   .btn {
-    width: 500px;
-    height: 500px;
+    width: 200px;
+    height: 300px;
     font-size: 18px;
     padding: 10px;
     border: none;
@@ -33,4 +33,6 @@
     text-align: center;
     display: block;
     margin:auto;
+    margin-top: 20px;
+    margin-right: ;
   }

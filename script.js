@@ -1,9 +1,9 @@
-let userName = prompt('WHAT IS YOUR NAME?')
-let userQuest = prompt ('What is your quest?')
-let userFavoriteColor = prompt('What is your favorite color?')
-let swallowedAirspeed = prompt ('What is the speed of an uneven swallowed?')
-let userAge = prompt ('What is your age?')
-let userFavoriteAnimal = prompt ('What is your favorite animal?')
+let userName = prompt('WHAT IS YOUR NAME?');
+let userQuest = prompt ('What is your quest?');
+let userFavoriteColor = prompt('What is your favorite color?');
+let swallowedAirspeed = prompt ('What is the speed of an uneven swallowed?');
+let userAge = prompt ('What is your age?');
+let userFavoriteAnimal = prompt ('What is your favorite animal?');
 let userChosenName=prompt('Give a character name');
 let userChosenVerb=prompt('Give a verb PRESENT TENSE like runs');
 let userChosenLocation=prompt('Give a location, can be a country, state, anything');

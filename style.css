@@ -6,6 +6,14 @@ body {
     background-image: url(/imgs/2-cobra-kai-thame-crontroi-transparent.jpeg);
 }
 
+body.end {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/imgs/srIguapzPpBcDlcrFZEqfSAzc04Goq.avif);
+}
+
 h1 {
     font-family: "hayate", sans-serif;
     font-weight: 400;

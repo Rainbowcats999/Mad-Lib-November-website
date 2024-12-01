@@ -16,7 +16,7 @@ let userChosenThirdCharacterAdjective=prompt('Give me an adjective/occupation fo
 let userChosenSchool=prompt('Give me a school please in the (Name of school) (Elementary/Middle/High) School format ');
 let userChosenAmount=prompt('Give me any number in the world');
 let userChosenOrganizationName=prompt('Name me an organization, can be abbreviated');
-let 
+
 
 let myStory =
 `<p> Hello ${userName}! Answer me these questions <span class="loud">three</span> and the other side you'll see.</p>

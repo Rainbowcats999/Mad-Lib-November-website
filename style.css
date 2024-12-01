@@ -30,4 +30,6 @@
     cursor: pointer;
     position: absolute; 
     text-align: center;
+    display: block;
+    
   }

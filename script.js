@@ -3,7 +3,6 @@ let userQuest = prompt ('What is your quest?')
 let userFavoriteColor = prompt('What is your favorite color?')
 let swallowedAirspeed = prompt ('What is the speed of an uneven swallowed?')
 let userAge = prompt ('What is your age?')
-let userName=prompt('What is your name?');
 let userAge=prompt('How old are you?');
 let userChosenName=prompt('Give a character name');
 let userChosenVerb=prompt('Give a verb PRESENT TENSE like runs');

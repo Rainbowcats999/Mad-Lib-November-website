@@ -28,6 +28,6 @@
     background: #000;
     color: #fff;
     cursor: pointer;
-    position: absolute;
+    position: absolute; bottom: 0;
     text-align: center;
   }

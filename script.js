@@ -18,6 +18,22 @@ let userChosenSchool=prompt('Give me a school please in the (Name of school) (El
 let userChosenAmount=prompt('Give me any number in the world');
 let userChosenOrganizationName=prompt('Name me an organization, can be abbreviated');
 
+console.log(userName);
+console.log(userAge);
+console.log(userChosenName);
+console.log(userChosenVerb);
+console.log(userChosenLocation);
+console.log(userChosenGender);
+console.log(userChosenGenderTwo);
+console.log(userChosenGenderThree);
+console.log(userChosenSecondCharacter);
+console.log(userChosenSecondCharacterAdjective);
+console.log(userChosenThirdCharacter);
+console.log(userChosenThirdCharacterAdjective);
+console.log(userChosenSchool);
+console.log(userChosenAmount);
+console.log(userChosenOrganizationName);
+
 
 let myStory =
 `<p> Hello ${userName}! Answer me these questions <span class="loud">three</span> and the other side you'll see.</p>

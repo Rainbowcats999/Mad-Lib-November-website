@@ -22,6 +22,7 @@ console.log(userName);
 console.log(userAge);
 console.log(userChosenName);
 console.log(userChosenVerb);
+console.log(userFavoriteAnimal);
 console.log(userChosenLocation);
 console.log(userChosenGender);
 console.log(userChosenGenderTwo);

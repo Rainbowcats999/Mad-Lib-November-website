@@ -32,15 +32,16 @@
     position: absolute; 
     text-align: center;
     display: block;
-    margin-left: 80px;
+    margin-left: 270px;
     margin-right: 80px;
-    margin-top: 80px;
+    margin-top: 50px;
     margin-bottom: 80px;
   }
 
   img {
     width: 100px;
     height: 80px;
+    margin-left: 100px;
     scale: 2;
     rotate: 45deg;
     translate: -50%
